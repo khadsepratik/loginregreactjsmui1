@@ -1,0 +1,34 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "stuname": "Pratik",
+      "email": "pratikkhadse57@gmail.com"
+    },
+    {
+      "id": 2,
+      "stuname": "Prasad",
+      "email": "prasad1bhk@gmail.com"
+    },
+    {
+      "id": 3,
+      "stuname": "Akash",
+      "email": "akash1bhk@gmail.com"
+    },
+    {
+      "stuname": "hjiov",
+      "email": "zbhzlkjv",
+      "id": 4
+    },
+    {
+      "stuname": "opfnguiuds",
+      "email": "jhlkioccv.,n",
+      "id": 5
+    },
+    {
+      "stuname": "xdfdxSDF",
+      "email": "fdfssdf",
+      "id": 6
+    }
+  ]
+}
